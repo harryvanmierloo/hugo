@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience 2
-subtitle: Support sustainable farming while enjoying a cup
+title: UNCO-MOB
+subtitle: Door Floor
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
@@ -32,6 +32,8 @@ products:
       fall in love with in our shop.
   - image: /img/about-direct-sourcing.jpg
     text: Here's a new product!
+  - image: /img/about-jumbotron.jpg
+    text: dfsdfsdfsdf
 values:
   heading: Our values
   text: >-
